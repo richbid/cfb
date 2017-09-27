@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diagram1", "diagram1.csproj", "{DBD25CC4-83CC-4432-9F5F-9256DD37FE11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD25CC4-83CC-4432-9F5F-9256DD37FE11}.Debug|x86.ActiveCfg = Debug|x86
+		{DBD25CC4-83CC-4432-9F5F-9256DD37FE11}.Debug|x86.Build.0 = Debug|x86
+		{DBD25CC4-83CC-4432-9F5F-9256DD37FE11}.Release|x86.ActiveCfg = Release|x86
+		{DBD25CC4-83CC-4432-9F5F-9256DD37FE11}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
